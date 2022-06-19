@@ -1,0 +1,38 @@
+id: I594A07CD
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T08:46:13.042398'
+last_modified: '2022-06-19T08:46:13.042409'
+parser: null
+source_metadata:
+  title: Hagiography of 47th Ngor abbot Byams pa kun dga bstan dzin bkra shis grags
+    pai rgyal mtshan (1776–1862); Lamdre Lobshe, vol. ja, title no. 2
+  author: བྱམས་པ་ཀུན་དགའ་བསྟན་པའི་རྒྱལ་མཚན།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-09-05);
+    unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/579
+  bases:
+    e612:
+      title: Hagiography of 47th Ngor abbot Byams pa kun dga bstan dzin bkra shis
+        grags pai rgyal mtshan (1776–1862); Lamdre Lobshe, vol. ja, title no. 2
+      order: 1
+      base_file: e612.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
